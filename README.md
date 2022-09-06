@@ -7,3 +7,5 @@ Here is my solution to the book "A Collection of Data Science Take-Home Challeng
 02. Spanish Translation A/B Test (AB testing check + comments)
 
 03. Employee Retention
+
+04. Identify Fraudulent Activities
